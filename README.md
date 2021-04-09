@@ -1,4 +1,4 @@
-# btc_wallet
+# Bitcoin wallet
 
 <br>_Author_: Jonathan Whiteley<br>
 _Contact_: jonathan.whiteley@berkeley.edu<br>
@@ -11,8 +11,6 @@ _Note_: OOP take on Bitcoin wallet program<br>
 
 
 ## Requirements and Dependencies
-
-Additional packages relied upon include: datetime, bs4, json, numpy, re, requests, sys, and warnings.
 
 
 ## Guidance for Implementation
